@@ -1,0 +1,5 @@
+DOCTYPE DECLARATION-
+it tells the browser what type of document to expect.
+doctype declaration represents the document type and helps the browser to display the web pages correctly.
+it must appear only once and at hte top of the page.
+it is not case sensitive.

@@ -1,0 +1,9 @@
+comments are used when we want to write something about code but don't want to run or show in the output.
+purpose of comments-
+1-documentation-we use comments to explain the purpose or functionality of certain code blocks, making it easier to understand the codebase.
+2-debugging- it can help in troubleshooting or temporarily disabling the content for testing purpose without deleting them.
+3-reminder- it can help as reminder for future modification of improvements of code.
+4-work in progress- it can mark the unfinished code or undevelopment code.
+example-
+<!-- this is a comment -->
+<h1>Radhe</h1>
